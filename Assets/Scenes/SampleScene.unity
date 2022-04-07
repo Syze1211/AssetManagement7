@@ -535,7 +535,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Alle muss brennen!!
+  m_Text: 'Alles muss komplett brennen '
 --- !u!222 &2133948569
 CanvasRenderer:
   m_ObjectHideFlags: 0
