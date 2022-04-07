@@ -734,3 +734,60 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2133948566}
   m_CullTransparentMesh: 1
+--- !u!1001 &3516458991602835802
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6854133955905037737, guid: 8e5a32dcc4349234f88c83074bb1d1ea, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6854133955905037737, guid: 8e5a32dcc4349234f88c83074bb1d1ea, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6854133955905037737, guid: 8e5a32dcc4349234f88c83074bb1d1ea, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6854133955905037737, guid: 8e5a32dcc4349234f88c83074bb1d1ea, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6854133955905037737, guid: 8e5a32dcc4349234f88c83074bb1d1ea, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6854133955905037737, guid: 8e5a32dcc4349234f88c83074bb1d1ea, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6854133955905037737, guid: 8e5a32dcc4349234f88c83074bb1d1ea, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6854133955905037737, guid: 8e5a32dcc4349234f88c83074bb1d1ea, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6854133955905037737, guid: 8e5a32dcc4349234f88c83074bb1d1ea, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6854133955905037737, guid: 8e5a32dcc4349234f88c83074bb1d1ea, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6854133955905037737, guid: 8e5a32dcc4349234f88c83074bb1d1ea, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7779551793355665672, guid: 8e5a32dcc4349234f88c83074bb1d1ea, type: 3}
+      propertyPath: m_Name
+      value: Baumi
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8e5a32dcc4349234f88c83074bb1d1ea, type: 3}
